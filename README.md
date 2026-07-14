@@ -1,5 +1,6 @@
 # College ROI Data — what U.S. colleges and majors actually pay back
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21351603-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21351603)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-b31b1b?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![Website](https://img.shields.io/badge/site-le--teen.com-111?style=flat-square)](https://le-teen.com)
 [![Methodology](https://img.shields.io/badge/methodology-public-111?style=flat-square)](https://le-teen.com/methodology)
@@ -70,7 +71,7 @@ figure matters, say the vintage.
 > LE TEEN (2026). *College ROI Data: 30-year net present value of U.S. colleges and majors.*
 > Derived from FREOPP (2021), NCES IPEDS (2023-24), BEA RPP (2023). https://le-teen.com/methodology
 
-A `CITATION.cff` ships in this repository; the Zenodo DOI badge lands here when minted.
+A `CITATION.cff` ships in this repository; DOI: [10.5281/zenodo.21351603](https://doi.org/10.5281/zenodo.21351603) (concept DOI for all versions: [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602)).
 
 ## Refresh cadence
 
