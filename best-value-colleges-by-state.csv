@@ -1,0 +1,608 @@
+state,state_name,rank_in_state,institution,city,control,npv_30yr_resident_usd
+AL,Alabama,1,Columbia Southern University,Orange Beach,private-forprofit,4210121
+AL,Alabama,2,University of Alabama in Huntsville,Huntsville,public,2488746
+AL,Alabama,3,Auburn University,Auburn,public,2200730
+AL,Alabama,4,The University of Alabama,Tuscaloosa,public,1820478
+AL,Alabama,5,Tuskegee University,Tuskegee,private-nonprofit,1809626
+AL,Alabama,6,Faulkner University,Montgomery,private-nonprofit,1441726
+AL,Alabama,7,University of Alabama at Birmingham,Birmingham,public,1428165
+AL,Alabama,8,University of South Alabama,Mobile,public,1333608
+AL,Alabama,9,Auburn University at Montgomery,Montgomery,public,1299531
+AL,Alabama,10,Alabama A & M University,Normal,public,1285895
+AL,Alabama,11,Athens State University,Athens,public,1238902
+AL,Alabama,12,Troy University,Troy,public,1157883
+AL,Alabama,13,Jacksonville State University,Jacksonville,public,1142899
+AL,Alabama,14,University of North Alabama,Florence,public,856895
+AL,Alabama,15,Huntingdon College,Montgomery,private-nonprofit,830764
+AK,Alaska,1,University of Alaska Anchorage,Anchorage,public,2344964
+AK,Alaska,2,University of Alaska Southeast,Juneau,public,2341012
+AK,Alaska,3,University of Alaska Fairbanks,Fairbanks,public,1649748
+AZ,Arizona,1,Grand Canyon University,Phoenix,private-forprofit,2930446
+AZ,Arizona,2,University of Phoenix-Arizona,Phoenix,private-forprofit,1965296
+AZ,Arizona,3,Arizona State University Campus Immersion,Tempe,public,1553205
+AZ,Arizona,4,University of Arizona,Tucson,public,1256744
+AZ,Arizona,5,Northern Arizona University,Flagstaff,public,1143591
+AZ,Arizona,6,American InterContinental University System,Chandler,private-forprofit,1086433
+AZ,Arizona,7,University of Advancing Technology,Tempe,private-forprofit,979623
+AR,Arkansas,1,University of Arkansas Grantham,LIttle Rock,public,3599217
+AR,Arkansas,2,University of Arkansas for Medical Sciences,Little Rock,public,2868332
+AR,Arkansas,3,University of Arkansas,Fayetteville,public,2221601
+AR,Arkansas,4,John Brown University,Siloam Springs,private-nonprofit,1856667
+AR,Arkansas,5,University of Arkansas at Little Rock,Little Rock,public,1715112
+AR,Arkansas,6,University of Arkansas-Fort Smith,Fort Smith,public,1316463
+AR,Arkansas,7,University of Arkansas at Monticello,Monticello,public,1279068
+AR,Arkansas,8,Southern Arkansas University Main Campus,Magnolia,public,1228899
+AR,Arkansas,9,Arkansas Tech University,Russellville,public,1061673
+AR,Arkansas,10,Arkansas State University,Jonesboro,public,1039097
+AR,Arkansas,11,University of Central Arkansas,Conway,public,984278
+AR,Arkansas,12,Harding University,Searcy,private-nonprofit,951475
+AR,Arkansas,13,Henderson State University,Arkadelphia,public,556205
+AR,Arkansas,14,University of Arkansas at Pine Bluff,Pine Bluff,public,365016
+AR,Arkansas,15,Philander Smith University,Little Rock,private-nonprofit,292489
+CA,California,1,California Institute of Technology,Pasadena,private-nonprofit,10062539
+CA,California,2,California State University Maritime Academy,Vallejo,public,6421793
+CA,California,3,Harvey Mudd College,Claremont,private-nonprofit,6071463
+CA,California,4,Loma Linda University,Loma Linda,private-nonprofit,4620832
+CA,California,5,Pomona College,Claremont,private-nonprofit,4318936
+CA,California,6,Claremont McKenna College,Claremont,private-nonprofit,4155203
+CA,California,7,California Polytechnic State University-San Luis Obispo,San Luis Obispo,public,3020167
+CA,California,8,Pacific Union College,Angwin,private-nonprofit,2706133
+CA,California,9,Stanford University,Stanford,private-nonprofit,2613534
+CA,California,10,National University,San Diego,private-nonprofit,2503037
+CA,California,11,University of California-Berkeley,Berkeley,public,2500274
+CA,California,12,Southern California Institute of Technology,Anaheim,private-forprofit,2452504
+CA,California,13,Dominican University of California,San Rafael,private-nonprofit,2391678
+CA,California,14,San Jose State University,San Jose,public,1937028
+CA,California,15,California State University-East Bay,Hayward,public,1888912
+CO,Colorado,1,Colorado School of Mines,Golden,public,4836958
+CO,Colorado,2,Colorado State University Global,Aurora,public,3525183
+CO,Colorado,3,Colorado Technical University-Colorado Springs,Colorado Springs,private-forprofit,1743608
+CO,Colorado,4,University of Colorado Denver/Anschutz Medical Campus,Denver,public,1538378
+CO,Colorado,5,University of Colorado Boulder,Boulder,public,1354350
+CO,Colorado,6,Metropolitan State University of Denver,Denver,public,1234584
+CO,Colorado,7,Regis University,Denver,private-nonprofit,1204041
+CO,Colorado,8,Colorado Christian University,Lakewood,private-nonprofit,1147252
+CO,Colorado,9,University of Colorado Colorado Springs,Colorado Springs,public,1014522
+CO,Colorado,10,Colorado State University-Fort Collins,Fort Collins,public,983589
+CO,Colorado,11,Colorado State University Pueblo,Pueblo,public,976490
+CO,Colorado,12,Colorado Mountain College,Glenwood Springs,public,952392
+CO,Colorado,13,Colorado Mesa University,Grand Junction,public,935385
+CO,Colorado,14,Adams State University,Alamosa,public,561051
+CO,Colorado,15,University of Northern Colorado,Greeley,public,557863
+CT,Connecticut,1,Yale University,New Haven,private-nonprofit,2344119
+CT,Connecticut,2,Goodwin University,East Hartford,private-nonprofit,2153467
+CT,Connecticut,3,Charter Oak State College,New Britain,public,2082470
+CT,Connecticut,4,University of Saint Joseph,West Hartford,private-nonprofit,1972614
+CT,Connecticut,5,Post University,Waterbury,private-forprofit,1592313
+CT,Connecticut,6,University of Connecticut,Storrs,public,1548086
+CT,Connecticut,7,Central Connecticut State University,New Britain,public,1503781
+CT,Connecticut,8,Fairfield University,Fairfield,private-nonprofit,1386130
+CT,Connecticut,9,Western Connecticut State University,Danbury,public,975133
+CT,Connecticut,10,Trinity College,Hartford,private-nonprofit,818551
+CT,Connecticut,11,Quinnipiac University,Hamden,private-nonprofit,650215
+CT,Connecticut,12,Southern Connecticut State University,New Haven,public,622216
+CT,Connecticut,13,Sacred Heart University,Fairfield,private-nonprofit,558383
+CT,Connecticut,14,Albertus Magnus College,New Haven,private-nonprofit,533908
+CT,Connecticut,15,Eastern Connecticut State University,Willimantic,public,429434
+DE,Delaware,1,Wilmington University,New Castle,private-nonprofit,1982490
+DE,Delaware,2,University of Delaware,Newark,public,1914234
+DE,Delaware,3,Delaware State University,Dover,public,577648
+DE,Delaware,4,Goldey-Beacom College,Wilmington,private-nonprofit,476764
+DC,District of Columbia,1,Strayer University-District of Columbia,Washington,private-forprofit,2569564
+DC,District of Columbia,2,Georgetown University,Washington,private-nonprofit,2149744
+DC,District of Columbia,3,University of the District of Columbia,Washington,public,1337895
+DC,District of Columbia,4,Trinity Washington University,Washington,private-nonprofit,698781
+DC,District of Columbia,5,George Washington University,Washington,private-nonprofit,600496
+DC,District of Columbia,6,The Catholic University of America,Washington,private-nonprofit,433612
+DC,District of Columbia,7,Howard University,Washington,private-nonprofit,118701
+FL,Florida,1,Embry-Riddle Aeronautical University-Daytona Beach,Daytona Beach,private-nonprofit,2539363
+FL,Florida,2,AdventHealth University,Orlando,private-nonprofit,2388358
+FL,Florida,3,Florida SouthWestern State College,Fort Myers,public,1978895
+FL,Florida,4,Florida State College at Jacksonville,Jacksonville,public,1930893
+FL,Florida,5,St Petersburg College,St. Petersburg,public,1817225
+FL,Florida,6,University of Florida,Gainesville,public,1749229
+FL,Florida,7,Everglades University,Boca Raton,private-nonprofit,1724031
+FL,Florida,8,Seminole State College of Florida,Sanford,public,1671278
+FL,Florida,9,Broward College,Fort Lauderdale,public,1640597
+FL,Florida,10,Florida National University-Main Campus,Hialeah,private-forprofit,1575446
+FL,Florida,11,Florida Institute of Technology,Melbourne,private-nonprofit,1532675
+FL,Florida,12,Polk State College,Winter Haven,public,1497612
+FL,Florida,13,Palm Beach State College,Lake Worth,public,1496054
+FL,Florida,14,Santa Fe College,Gainesville,public,1425913
+FL,Florida,15,Miami Dade College,Miami,public,1268404
+GA,Georgia,1,Georgia Institute of Technology-Main Campus,Atlanta,public,5161694
+GA,Georgia,2,South University-Savannah,Savannah,private-forprofit,2249152
+GA,Georgia,3,Kennesaw State University,Kennesaw,public,1952081
+GA,Georgia,4,Thomas University,Thomasville,private-nonprofit,1631063
+GA,Georgia,5,LaGrange College,Lagrange,private-nonprofit,1621993
+GA,Georgia,6,University of Georgia,Athens,public,1612796
+GA,Georgia,7,Georgia Southern University,Statesboro,public,1545521
+GA,Georgia,8,Georgia College & State University,Milledgeville,public,1455703
+GA,Georgia,9,Augusta University,Augusta,public,1424023
+GA,Georgia,10,Georgia Southwestern State University,Americus,public,1332093
+GA,Georgia,11,Abraham Baldwin Agricultural College,Tifton,public,1314022
+GA,Georgia,12,Middle Georgia State University,Macon,public,1299062
+GA,Georgia,13,Clayton  State University,Morrow,public,1285620
+GA,Georgia,14,University of North Georgia,Dahlonega,public,1208535
+GA,Georgia,15,Georgia Gwinnett College,Lawrenceville,public,1205680
+HI,Hawaii,1,University of Hawaii at Manoa,Honolulu,public,693874
+HI,Hawaii,2,Hawaii Pacific University,Honolulu,private-nonprofit,531140
+HI,Hawaii,3,Chaminade University of Honolulu,Honolulu,private-nonprofit,526627
+HI,Hawaii,4,University of Hawaii-West Oahu,Kapolei,public,424234
+HI,Hawaii,5,University of Hawaii at Hilo,Hilo,public,324097
+ID,Idaho,1,Lewis-Clark State College,Lewiston,public,1830853
+ID,Idaho,2,Boise State University,Boise,public,1477721
+ID,Idaho,3,Brigham Young University-Idaho,Rexburg,private-nonprofit,1463018
+ID,Idaho,4,Idaho State University,Pocatello,public,1346624
+ID,Idaho,5,University of Idaho,Moscow,public,1247377
+ID,Idaho,6,Northwest Nazarene University,Nampa,private-nonprofit,455231
+IL,Illinois,1,University of Illinois Urbana-Champaign,Champaign,public,2308631
+IL,Illinois,2,DeVry University-Illinois,Lisle,private-forprofit,2076687
+IL,Illinois,3,Illinois Institute of Technology,Chicago,private-nonprofit,2075885
+IL,Illinois,4,University of St Francis,Joliet,private-nonprofit,1444145
+IL,Illinois,5,University of Chicago,Chicago,private-nonprofit,1432078
+IL,Illinois,6,Illinois State University,Normal,public,1426786
+IL,Illinois,7,Southern Illinois University-Edwardsville,Edwardsville,public,1395845
+IL,Illinois,8,University of Illinois Chicago,Chicago,public,1370447
+IL,Illinois,9,Northern Illinois University,Dekalb,public,1343355
+IL,Illinois,10,Lewis University,Romeoville,private-nonprofit,1322343
+IL,Illinois,11,University of Illinois Springfield,Springfield,public,1294688
+IL,Illinois,12,Bradley University,Peoria,private-nonprofit,1232826
+IL,Illinois,13,Trinity Christian College,Palos Heights,private-nonprofit,1224733
+IL,Illinois,14,Southern Illinois University-Carbondale,Carbondale,public,1103260
+IL,Illinois,15,Benedictine University,Lisle,private-nonprofit,1084192
+IN,Indiana,1,Rose-Hulman Institute of Technology,Terre Haute,private-nonprofit,4349972
+IN,Indiana,2,Purdue University-Main Campus,West Lafayette,public,3048360
+IN,Indiana,3,University of Notre Dame,Notre Dame,private-nonprofit,2485129
+IN,Indiana,4,Purdue University Northwest,Hammond,public,2302434
+IN,Indiana,5,Purdue University Global,West Lafayette,public,1930112
+IN,Indiana,6,Indiana Wesleyan University-Marion,Marion,private-nonprofit,1870714
+IN,Indiana,7,Indiana University-Bloomington,Bloomington,public,1857193
+IN,Indiana,8,Indiana University-Indianapolis,Indianapolis,public,1759473
+IN,Indiana,9,Trine University,Angola,private-nonprofit,1707393
+IN,Indiana,10,Vincennes University,Vincennes,public,1674515
+IN,Indiana,11,Indiana Institute of Technology,Fort Wayne,private-nonprofit,1658226
+IN,Indiana,12,Indiana University-Kokomo,Kokomo,public,1657316
+IN,Indiana,13,Indiana University-East,Richmond,public,1624444
+IN,Indiana,14,Oakland City University,Oakland City,private-nonprofit,1476298
+IN,Indiana,15,Indiana State University,Terre Haute,public,1455012
+IA,Iowa,1,Waldorf University,Forest City,private-forprofit,3354141
+IA,Iowa,2,Iowa State University,Ames,public,2671065
+IA,Iowa,3,University of Iowa,Iowa City,public,1881981
+IA,Iowa,4,University of Northern Iowa,Cedar Falls,public,1666870
+IA,Iowa,5,Upper Iowa University,Fayette,private-nonprofit,1572337
+IA,Iowa,6,Mount Mercy University,Cedar Rapids,private-nonprofit,1422954
+IA,Iowa,7,Briar Cliff University,Sioux City,private-nonprofit,1413225
+IA,Iowa,8,Northwestern College,Orange City,private-nonprofit,1248322
+IA,Iowa,9,Drake University,Des Moines,private-nonprofit,1115451
+IA,Iowa,10,Clarke University,Dubuque,private-nonprofit,1041224
+IA,Iowa,11,Simpson College,Indianola,private-nonprofit,968605
+IA,Iowa,12,Saint Ambrose University,Davenport,private-nonprofit,904375
+IA,Iowa,13,Grand View University,Des Moines,private-nonprofit,865293
+IA,Iowa,14,Dordt University,Sioux Center,private-nonprofit,799272
+IA,Iowa,15,University of Dubuque,Dubuque,private-nonprofit,671987
+KS,Kansas,1,Baker University,Baldwin City,private-nonprofit,2037070
+KS,Kansas,2,Kansas State University,Manhattan,public,1971852
+KS,Kansas,3,MidAmerica Nazarene University,Olathe,private-nonprofit,1892797
+KS,Kansas,4,Friends University,Wichita,private-nonprofit,1885378
+KS,Kansas,5,University of Saint Mary,Leavenworth,private-nonprofit,1880403
+KS,Kansas,6,University of Kansas,Lawrence,public,1834410
+KS,Kansas,7,Washburn University,Topeka,public,1783858
+KS,Kansas,8,Pittsburg State University,Pittsburg,public,1689656
+KS,Kansas,9,Southwestern College,Winfield,private-nonprofit,1664572
+KS,Kansas,10,Fort Hays State University,Hays,public,1663549
+KS,Kansas,11,Wichita State University,Wichita,public,1486319
+KS,Kansas,12,Central Christian College of Kansas,McPherson,private-nonprofit,1438541
+KS,Kansas,13,Emporia State University,Emporia,public,1071132
+KS,Kansas,14,Bethel College-North Newton,North Newton,private-nonprofit,823885
+KS,Kansas,15,Tabor College,Hillsboro,private-nonprofit,666990
+KY,Kentucky,1,Sullivan University,Louisville,private-forprofit,2120921
+KY,Kentucky,2,Spalding University,Louisville,private-nonprofit,1866209
+KY,Kentucky,3,Thomas More University,Crestview Hills,private-nonprofit,1793804
+KY,Kentucky,4,Northern Kentucky University,Highland Heights,public,1567976
+KY,Kentucky,5,University of Louisville,Louisville,public,1479945
+KY,Kentucky,6,University of Kentucky,Lexington,public,1265313
+KY,Kentucky,7,Murray State University,Murray,public,1112783
+KY,Kentucky,8,Eastern Kentucky University,Richmond,public,942077
+KY,Kentucky,9,Western Kentucky University,Bowling Green,public,845487
+KY,Kentucky,10,Morehead State University,Morehead,public,810546
+KY,Kentucky,11,Midway University,Midway,private-nonprofit,707846
+KY,Kentucky,12,Kentucky Christian University,Grayson,private-nonprofit,607450
+KY,Kentucky,13,Kentucky State University,Frankfort,public,578949
+KY,Kentucky,14,University of the Cumberlands,Williamsburg,private-nonprofit,491427
+KY,Kentucky,15,Bellarmine University,Louisville,private-nonprofit,401636
+LA,Louisiana,1,Louisiana State University Health Sciences Center-New Orleans,New Orleans,public,3216047
+LA,Louisiana,2,Franciscan Missionaries of Our Lady University,Baton Rouge,private-nonprofit,2773311
+LA,Louisiana,3,University of Holy Cross,New Orleans,private-nonprofit,2741390
+LA,Louisiana,4,Louisiana State University and Agricultural & Mechanical College,Baton Rouge,public,2022485
+LA,Louisiana,5,Louisiana Christian University,Pineville,private-nonprofit,1937696
+LA,Louisiana,6,Louisiana Tech University,Ruston,public,1639650
+LA,Louisiana,7,University of Louisiana at Lafayette,Lafayette,public,1591936
+LA,Louisiana,8,McNeese State University,Lake Charles,public,1485860
+LA,Louisiana,9,University of Louisiana at Monroe,Monroe,public,1354101
+LA,Louisiana,10,Northwestern State University of Louisiana,Natchitoches,public,1309679
+LA,Louisiana,11,Southern University and A & M College,Baton Rouge,public,1234617
+LA,Louisiana,12,Nicholls State University,Thibodaux,public,1170001
+LA,Louisiana,13,Southeastern Louisiana University,Hammond,public,1102691
+LA,Louisiana,14,University of New Orleans,New Orleans,public,829253
+LA,Louisiana,15,Louisiana State University-Shreveport,Shreveport,public,822638
+ME,Maine,1,Maine Maritime Academy,Castine,public,6593271
+ME,Maine,2,University of Maine at Fort Kent,Fort Kent,public,2420096
+ME,Maine,3,University of Maine,Orono,public,1481207
+ME,Maine,4,University of Southern Maine,Portland,public,1314613
+ME,Maine,5,Saint Joseph's College of Maine,Standish,private-nonprofit,941404
+ME,Maine,6,Bowdoin College,Brunswick,private-nonprofit,713705
+ME,Maine,7,University of Maine at Augusta,Augusta,public,649265
+ME,Maine,8,Husson University,Bangor,private-nonprofit,554083
+ME,Maine,9,Colby College,Waterville,private-nonprofit,356780
+ME,Maine,10,Unity Environmental University,New Gloucester,private-nonprofit,247107
+ME,Maine,11,University of New England,Biddeford,private-nonprofit,223250
+MD,Maryland,1,"University of Maryland, Baltimore",Baltimore,public,3313919
+MD,Maryland,2,University of Maryland Global Campus,Adelphi,public,3080360
+MD,Maryland,3,University of Maryland-College Park,College Park,public,2448555
+MD,Maryland,4,Notre Dame of Maryland University,Baltimore,private-nonprofit,1896390
+MD,Maryland,5,University of Maryland-Baltimore County,Baltimore,public,1316379
+MD,Maryland,6,Bowie State University,Bowie,public,1284557
+MD,Maryland,7,Coppin State University,Baltimore,public,1249820
+MD,Maryland,8,Salisbury University,Salisbury,public,1194211
+MD,Maryland,9,Towson University,Towson,public,1160445
+MD,Maryland,10,Morgan State University,Baltimore,public,997747
+MD,Maryland,11,Johns Hopkins University,Baltimore,private-nonprofit,931157
+MD,Maryland,12,University of Baltimore,Baltimore,public,833933
+MD,Maryland,13,Frostburg State University,Frostburg,public,732196
+MD,Maryland,14,Stevenson University,Owings Mills,private-nonprofit,556031
+MD,Maryland,15,St. Mary's College of Maryland,St. Mary's City,public,509252
+MA,Massachusetts,1,Massachusetts Institute of Technology,Cambridge,private-nonprofit,5626200
+MA,Massachusetts,2,Massachusetts Maritime Academy,Buzzards Bay,public,5265764
+MA,Massachusetts,3,Franklin W Olin College of Engineering,Needham,private-nonprofit,4030473
+MA,Massachusetts,4,Wentworth Institute of Technology,Boston,private-nonprofit,3408160
+MA,Massachusetts,5,Worcester Polytechnic Institute,Worcester,private-nonprofit,2986800
+MA,Massachusetts,6,Harvard University,Cambridge,private-nonprofit,2837112
+MA,Massachusetts,7,Anna Maria College,Paxton,private-nonprofit,2805967
+MA,Massachusetts,8,Bentley University,Waltham,private-nonprofit,2606783
+MA,Massachusetts,9,University of Massachusetts-Lowell,Lowell,public,1694316
+MA,Massachusetts,10,Northeastern University,Boston,private-nonprofit,1615646
+MA,Massachusetts,11,Amherst College,Amherst,private-nonprofit,1436912
+MA,Massachusetts,12,University of Massachusetts-Amherst,Amherst,public,1372905
+MA,Massachusetts,13,University of Massachusetts-Dartmouth,North Dartmouth,public,1337179
+MA,Massachusetts,14,MCPHS University,Boston,private-nonprofit,1335420
+MA,Massachusetts,15,Boston College,Chestnut Hill,private-nonprofit,1332835
+MI,Michigan,1,Kettering University,Flint,private-nonprofit,4985877
+MI,Michigan,2,Michigan Technological University,Houghton,public,4225485
+MI,Michigan,3,Lawrence Technological University,Southfield,private-nonprofit,3843099
+MI,Michigan,4,Cleary University,Howell,private-nonprofit,3297772
+MI,Michigan,5,University of Michigan-Ann Arbor,Ann Arbor,public,2841094
+MI,Michigan,6,Walsh College,Troy,private-nonprofit,2383654
+MI,Michigan,7,University of Michigan-Dearborn,Dearborn,public,2283914
+MI,Michigan,8,Ferris State University,Big Rapids,public,2158095
+MI,Michigan,9,University of Detroit Mercy,Detroit,private-nonprofit,2066264
+MI,Michigan,10,Michigan State University,East Lansing,public,2017843
+MI,Michigan,11,Davenport University,Grand Rapids,private-nonprofit,1732050
+MI,Michigan,12,Oakland University,Rochester Hills,public,1702661
+MI,Michigan,13,Northwood University,Midland,private-nonprofit,1669332
+MI,Michigan,14,Andrews University,Berrien Springs,private-nonprofit,1653362
+MI,Michigan,15,Wayne State University,Detroit,public,1606357
+MN,Minnesota,1,Dunwoody College of Technology,Minneapolis,private-nonprofit,4262667
+MN,Minnesota,2,Capella University,Minneapolis,private-forprofit,4028803
+MN,Minnesota,3,Walden University,Minneapolis,private-forprofit,3052092
+MN,Minnesota,4,University of Minnesota-Crookston,Crookston,public,2320884
+MN,Minnesota,5,Rasmussen University-Minnesota,St. Cloud,private-forprofit,2180308
+MN,Minnesota,6,Metropolitan State University,Saint Paul,public,2123905
+MN,Minnesota,7,Minnesota State University-Mankato,Mankato,public,2018990
+MN,Minnesota,8,Winona State University,Winona,public,1914536
+MN,Minnesota,9,University of Minnesota-Twin Cities,Minneapolis,public,1824263
+MN,Minnesota,10,University of Minnesota-Duluth,Duluth,public,1784937
+MN,Minnesota,11,Saint Cloud State University,Saint Cloud,public,1781083
+MN,Minnesota,12,Bemidji State University,Bemidji,public,1760490
+MN,Minnesota,13,St Catherine University,Saint Paul,private-nonprofit,1617394
+MN,Minnesota,14,The College of Saint Scholastica,Duluth,private-nonprofit,1538575
+MN,Minnesota,15,Concordia University-Saint Paul,Saint Paul,private-nonprofit,1479558
+MS,Mississippi,1,Mississippi University for Women,Columbus,public,1652040
+MS,Mississippi,2,Mississippi State University,Mississippi State,public,1555766
+MS,Mississippi,3,University of Mississippi,University,public,1370091
+MS,Mississippi,4,University of Southern Mississippi,Hattiesburg,public,742045
+MS,Mississippi,5,Alcorn State University,Alcorn State,public,639730
+MS,Mississippi,6,Mississippi College,Clinton,private-nonprofit,561640
+MS,Mississippi,7,William Carey University,Hattiesburg,private-nonprofit,532906
+MS,Mississippi,8,Belhaven University,Jackson,private-nonprofit,439670
+MS,Mississippi,9,Jackson State University,Jackson,public,216089
+MO,Missouri,1,Missouri University of Science and Technology,Rolla,public,4573427
+MO,Missouri,2,Washington University in St Louis,Saint Louis,private-nonprofit,2187146
+MO,Missouri,3,Park University,Parkville,private-nonprofit,2133577
+MO,Missouri,4,University of Missouri-Kansas City,Kansas City,public,1741498
+MO,Missouri,5,William Jewell College,Liberty,private-nonprofit,1662450
+MO,Missouri,6,University of Missouri-Columbia,Columbia,public,1655826
+MO,Missouri,7,Columbia College,Columbia,private-nonprofit,1606018
+MO,Missouri,8,University of Central Missouri,Warrensburg,public,1501046
+MO,Missouri,9,Maryville University of Saint Louis,Saint Louis,private-nonprofit,1496288
+MO,Missouri,10,University of Missouri-St Louis,Saint Louis,public,1347639
+MO,Missouri,11,Missouri Western State University,Saint Joseph,public,1235759
+MO,Missouri,12,Missouri Southern State University,Joplin,public,1223161
+MO,Missouri,13,Northwest Missouri State University,Maryville,public,1186141
+MO,Missouri,14,Truman State University,Kirksville,public,1071167
+MO,Missouri,15,Lindenwood University,Saint Charles,private-nonprofit,965741
+MT,Montana,1,Montana Technological University,Butte,public,5274302
+MT,Montana,2,University of Providence,Great Falls,private-nonprofit,2818850
+MT,Montana,3,Montana State University-Northern,Havre,public,2106102
+MT,Montana,4,Montana State University,Bozeman,public,1583929
+MT,Montana,5,Montana State University Billings,Billings,public,1082988
+MT,Montana,6,The University of Montana-Western,Dillon,public,811023
+MT,Montana,7,Rocky Mountain College,Billings,private-nonprofit,625033
+MT,Montana,8,The University of Montana,Missoula,public,291513
+NE,Nebraska,1,Bellevue University,Bellevue,private-nonprofit,2969768
+NE,Nebraska,2,Nebraska Methodist College of Nursing & Allied Health,Omaha,private-nonprofit,2908340
+NE,Nebraska,3,University of Nebraska Medical Center,Omaha,public,2832621
+NE,Nebraska,4,Union Adventist University,Lincoln,private-nonprofit,2487766
+NE,Nebraska,5,College of Saint Mary,Omaha,private-nonprofit,2306613
+NE,Nebraska,6,University of Nebraska at Omaha,Omaha,public,1658833
+NE,Nebraska,7,University of Nebraska-Lincoln,Lincoln,public,1654820
+NE,Nebraska,8,Peru State College,Peru,public,1353702
+NE,Nebraska,9,University of Nebraska at Kearney,Kearney,public,1293606
+NE,Nebraska,10,Creighton University,Omaha,private-nonprofit,1264084
+NE,Nebraska,11,Chadron State College,Chadron,public,1064246
+NE,Nebraska,12,Wayne State College,Wayne,public,1005224
+NE,Nebraska,13,Nebraska Wesleyan University,Lincoln,private-nonprofit,802272
+NE,Nebraska,14,Hastings College,Hastings,private-nonprofit,638084
+NE,Nebraska,15,Midland University,Fremont,private-nonprofit,196267
+NV,Nevada,1,Nevada State University,Henderson,public,2678242
+NV,Nevada,2,University of Nevada-Reno,Reno,public,1436028
+NV,Nevada,3,University of Nevada-Las Vegas,Las Vegas,public,1302957
+NH,New Hampshire,1,Dartmouth College,Hanover,private-nonprofit,2470614
+NH,New Hampshire,2,Southern New Hampshire University,Manchester,private-nonprofit,1710429
+NH,New Hampshire,3,University of New Hampshire College of Professional Studies Online,Manchester,public,1548826
+NH,New Hampshire,4,University of New Hampshire-Main Campus,Durham,public,1310166
+NH,New Hampshire,5,Rivier University,Nashua,private-nonprofit,1154287
+NH,New Hampshire,6,Saint Anselm College,Manchester,private-nonprofit,790438
+NH,New Hampshire,7,Plymouth State University,Plymouth,public,726004
+NH,New Hampshire,8,Keene State College,Keene,public,578223
+NH,New Hampshire,9,Colby-Sawyer College,New London,private-nonprofit,205598
+NJ,New Jersey,1,Thomas Edison State University,Trenton,public,3931519
+NJ,New Jersey,2,Stevens Institute of Technology,Hoboken,private-nonprofit,3154669
+NJ,New Jersey,3,New Jersey Institute of Technology,Newark,public,3121510
+NJ,New Jersey,4,Princeton University,Princeton,private-nonprofit,2702625
+NJ,New Jersey,5,The College of New Jersey,Ewing,public,1731842
+NJ,New Jersey,6,Felician University,Lodi,private-nonprofit,1716884
+NJ,New Jersey,7,Rutgers University-New Brunswick,New Brunswick,public,1462318
+NJ,New Jersey,8,Ramapo College of New Jersey,Mahwah,public,1011661
+NJ,New Jersey,9,Saint Elizabeth University,Morristown,private-nonprofit,915923
+NJ,New Jersey,10,New Jersey City University,Jersey City,public,778778
+NJ,New Jersey,11,Rowan University,Glassboro,public,651492
+NJ,New Jersey,12,William Paterson University of New Jersey,Wayne,public,530585
+NJ,New Jersey,13,Kean University,Union,public,465149
+NJ,New Jersey,14,Seton Hall University,South Orange,private-nonprofit,331888
+NJ,New Jersey,15,Rider University,Lawrenceville,private-nonprofit,69331
+NM,New Mexico,1,New Mexico Institute of Mining and Technology,Socorro,public,5412673
+NM,New Mexico,2,Western New Mexico University,Silver City,public,1451554
+NM,New Mexico,3,Eastern New Mexico University-Main Campus,Portales,public,1394100
+NM,New Mexico,4,New Mexico Highlands University,Las Vegas,public,1031319
+NM,New Mexico,5,New Mexico State University-Main Campus,Las Cruces,public,995419
+NM,New Mexico,6,University of New Mexico-Main Campus,Albuquerque,public,911320
+NY,New York,1,SUNY Maritime College,Throggs Neck,public,5712052
+NY,New York,2,Molloy College,Rockville Centre,private-nonprofit,3576044
+NY,New York,3,CUNY Graduate School and University Center,New York,public,3163148
+NY,New York,4,Upstate Medical University,Syracuse,public,2875130
+NY,New York,5,Rensselaer Polytechnic Institute,Troy,private-nonprofit,2803029
+NY,New York,6,D'Youville  University,Buffalo,private-nonprofit,2519555
+NY,New York,7,SUNY College of Technology at Delhi,Delhi,public,2499855
+NY,New York,8,Vaughn College of Aeronautics and Technology,Flushing,private-nonprofit,2356659
+NY,New York,9,Wagner College,Staten Island,private-nonprofit,2281862
+NY,New York,10,Cornell University,Ithaca,private-nonprofit,1895729
+NY,New York,11,Adelphi University,Garden City,private-nonprofit,1875927
+NY,New York,12,Clarkson University,Potsdam,private-nonprofit,1862829
+NY,New York,13,Farmingdale State College,Farmingdale,public,1833164
+NY,New York,14,CUNY Bernard M Baruch College,New York,public,1804042
+NY,New York,15,University of Mount Saint Vincent,Bronx,private-nonprofit,1750981
+NC,North Carolina,1,Duke University,Durham,private-nonprofit,2750867
+NC,North Carolina,2,North Carolina State University at Raleigh,Raleigh,public,2221649
+NC,North Carolina,3,University of North Carolina at Charlotte,Charlotte,public,1649636
+NC,North Carolina,4,University of North Carolina at Chapel Hill,Chapel Hill,public,1589558
+NC,North Carolina,5,East Carolina University,Greenville,public,1449753
+NC,North Carolina,6,Winston-Salem State University,Winston-Salem,public,1405278
+NC,North Carolina,7,North Carolina A & T State University,Greensboro,public,1226923
+NC,North Carolina,8,Western Carolina University,Cullowhee,public,1033374
+NC,North Carolina,9,Fayetteville State University,Fayetteville,public,1031515
+NC,North Carolina,10,Elon University,Elon,private-nonprofit,1020550
+NC,North Carolina,11,University of North Carolina Wilmington,Wilmington,public,974290
+NC,North Carolina,12,Wake Forest University,Winston-Salem,private-nonprofit,937760
+NC,North Carolina,13,Appalachian State University,Boone,public,802590
+NC,North Carolina,14,University of Mount Olive,Mount Olive,private-nonprofit,792759
+NC,North Carolina,15,University of North Carolina at Greensboro,Greensboro,public,774672
+ND,North Dakota,1,North Dakota State University-Main Campus,Fargo,public,2621435
+ND,North Dakota,2,University of North Dakota,Grand Forks,public,2534107
+ND,North Dakota,3,University of Mary,Bismarck,private-nonprofit,2335721
+ND,North Dakota,4,Dickinson State University,Dickinson,public,1996213
+ND,North Dakota,5,Minot State University,Minot,public,1962791
+ND,North Dakota,6,University of Jamestown,Jamestown,private-nonprofit,1828379
+ND,North Dakota,7,Mayville State University,Mayville,public,1286015
+ND,North Dakota,8,Valley City State University,Valley City,public,1273907
+OH,Ohio,1,Marietta College,Marietta,private-nonprofit,3911387
+OH,Ohio,2,Mercy College of Ohio,Toledo,private-nonprofit,2869438
+OH,Ohio,3,Kettering College,Kettering,private-nonprofit,2814186
+OH,Ohio,4,Franklin University,Columbus,private-nonprofit,2259445
+OH,Ohio,5,Ohio Northern University,Ada,private-nonprofit,2046228
+OH,Ohio,6,University of Toledo,Toledo,public,2040819
+OH,Ohio,7,University of Cincinnati-Main Campus,Cincinnati,public,1965207
+OH,Ohio,8,Ohio University-Main Campus,Athens,public,1959786
+OH,Ohio,9,Ohio State University-Main Campus,Columbus,public,1930532
+OH,Ohio,10,Miami University-Oxford,Oxford,public,1820717
+OH,Ohio,11,University of Akron Main Campus,Akron,public,1709808
+OH,Ohio,12,University of Dayton,Dayton,private-nonprofit,1558879
+OH,Ohio,13,Wright State University-Main Campus,Dayton,public,1536523
+OH,Ohio,14,Cedarville University,Cedarville,private-nonprofit,1287597
+OH,Ohio,15,Case Western Reserve University,Cleveland,private-nonprofit,1281023
+OK,Oklahoma,1,Oklahoma State University Institute of Technology,Okmulgee,public,3839250
+OK,Oklahoma,2,Oklahoma Wesleyan University,Bartlesville,private-nonprofit,2814921
+OK,Oklahoma,3,University of Oklahoma-Norman Campus,Norman,public,2469949
+OK,Oklahoma,4,Oklahoma Panhandle State University,Goodwell,public,2311538
+OK,Oklahoma,5,Southwestern Oklahoma State University,Weatherford,public,2295692
+OK,Oklahoma,6,Oklahoma State University-Main Campus,Stillwater,public,2000259
+OK,Oklahoma,7,Southern Nazarene University,Bethany,private-nonprofit,1876183
+OK,Oklahoma,8,Langston University,Langston,public,1839084
+OK,Oklahoma,9,University of Tulsa,Tulsa,private-nonprofit,1614385
+OK,Oklahoma,10,Mid-America Christian University,Oklahoma City,private-nonprofit,1481447
+OK,Oklahoma,11,East Central University,Ada,public,1459198
+OK,Oklahoma,12,University of Central Oklahoma,Edmond,public,1430751
+OK,Oklahoma,13,Southeastern Oklahoma State University,Durant,public,1401094
+OK,Oklahoma,14,Northwestern Oklahoma State University,Alva,public,1356252
+OK,Oklahoma,15,Rogers State University,Claremore,public,1297998
+OR,Oregon,1,Oregon Institute of Technology,Klamath Falls,public,3767437
+OR,Oregon,2,Linfield University,McMinnville,private-nonprofit,2425867
+OR,Oregon,3,Oregon State University,Corvallis,public,1203072
+OR,Oregon,4,Warner Pacific University,Portland,private-nonprofit,996415
+OR,Oregon,5,University of Portland,Portland,private-nonprofit,979624
+OR,Oregon,6,George Fox University,Newberg,private-nonprofit,875800
+OR,Oregon,7,Portland State University,Portland,public,806615
+OR,Oregon,8,Eastern Oregon University,La Grande,public,641941
+OR,Oregon,9,Western Oregon University,Monmouth,public,351610
+OR,Oregon,10,University of Oregon,Eugene,public,284766
+PA,Pennsylvania,1,Carnegie Mellon University,Pittsburgh,private-nonprofit,4725381
+PA,Pennsylvania,2,University of Pennsylvania,Philadelphia,private-nonprofit,3498517
+PA,Pennsylvania,3,Lehigh University,Bethlehem,private-nonprofit,2945623
+PA,Pennsylvania,4,Pennsylvania College of Technology,Williamsport,public,2735316
+PA,Pennsylvania,5,Swarthmore College,Swarthmore,private-nonprofit,2596854
+PA,Pennsylvania,6,Immaculata University,Immaculata,private-nonprofit,2586896
+PA,Pennsylvania,7,Villanova University,Villanova,private-nonprofit,2479475
+PA,Pennsylvania,8,Peirce College,Philadelphia,private-nonprofit,2358236
+PA,Pennsylvania,9,Pennsylvania State University-Main Campus,University Park,public,2202506
+PA,Pennsylvania,10,Holy Family University,Philadelphia,private-nonprofit,2081213
+PA,Pennsylvania,11,Drexel University,Philadelphia,private-nonprofit,1859084
+PA,Pennsylvania,12,Saint Joseph's University,Philadelphia,private-nonprofit,1643651
+PA,Pennsylvania,13,West Chester University of Pennsylvania,West Chester,public,1615865
+PA,Pennsylvania,14,Bucknell University,Lewisburg,private-nonprofit,1593880
+PA,Pennsylvania,15,Thomas Jefferson University,Philadelphia,private-nonprofit,1572493
+RI,Rhode Island,1,Bryant University,Smithfield,private-nonprofit,2025448
+RI,Rhode Island,2,New England Institute of Technology,East Greenwich,private-nonprofit,1637963
+RI,Rhode Island,3,Brown University,Providence,private-nonprofit,1383705
+RI,Rhode Island,4,University of Rhode Island,Kingston,public,1210637
+RI,Rhode Island,5,Rhode Island College,Providence,public,1008031
+RI,Rhode Island,6,Roger Williams University,Bristol,private-nonprofit,790476
+RI,Rhode Island,7,Providence College,Providence,private-nonprofit,486037
+RI,Rhode Island,8,Salve Regina University,Newport,private-nonprofit,163301
+SC,South Carolina,1,Citadel Military College of South Carolina,Charleston,public,2382141
+SC,South Carolina,2,Clemson University,Clemson,public,2051181
+SC,South Carolina,3,University of South Carolina-Columbia,Columbia,public,1661415
+SC,South Carolina,4,University of South Carolina-Upstate,Spartanburg,public,1241481
+SC,South Carolina,5,University of South Carolina Aiken,Aiken,public,1210345
+SC,South Carolina,6,University of South Carolina Beaufort,Bluffton,public,916651
+SC,South Carolina,7,Limestone University,Gaffney,private-nonprofit,726659
+SC,South Carolina,8,Bob Jones University,Greenville,private-nonprofit,652287
+SC,South Carolina,9,College of Charleston,Charleston,public,597070
+SC,South Carolina,10,Lander University,Greenwood,public,485893
+SC,South Carolina,11,Francis Marion University,Florence,public,459656
+SC,South Carolina,12,Columbia College,Columbia,private-nonprofit,420044
+SC,South Carolina,13,Coastal Carolina University,Conway,public,295074
+SC,South Carolina,14,Charleston Southern University,Charleston,private-nonprofit,247806
+SC,South Carolina,15,Southern Wesleyan University,Central,private-nonprofit,194987
+SD,South Dakota,1,South Dakota School of Mines and Technology,Rapid City,public,4578361
+SD,South Dakota,2,South Dakota State University,Brookings,public,2241320
+SD,South Dakota,3,Dakota State University,Madison,public,2078257
+SD,South Dakota,4,National American University-Rapid City,Rapid City,private-forprofit,1774679
+SD,South Dakota,5,University of South Dakota,Vermillion,public,1664066
+SD,South Dakota,6,University of Sioux Falls,Sioux Falls,private-nonprofit,1490885
+SD,South Dakota,7,Dakota Wesleyan University,Mitchell,private-nonprofit,1463042
+SD,South Dakota,8,Northern State University,Aberdeen,public,1249829
+SD,South Dakota,9,Mount Marty University,Yankton,private-nonprofit,1240663
+SD,South Dakota,10,Black Hills State University,Spearfish,public,854729
+SD,South Dakota,11,Augustana University,Sioux Falls,private-nonprofit,734585
+TN,Tennessee,1,Baptist Health Sciences University,Memphis,private-nonprofit,2806727
+TN,Tennessee,2,Bethel University,McKenzie,private-nonprofit,2203316
+TN,Tennessee,3,The University of Tennessee Health Science Center,Memphis,public,2148120
+TN,Tennessee,4,Cumberland University,Lebanon,private-nonprofit,1604338
+TN,Tennessee,5,Vanderbilt University,Nashville,private-nonprofit,1485077
+TN,Tennessee,6,Trevecca Nazarene University,Nashville,private-nonprofit,1464533
+TN,Tennessee,7,Tennessee Technological University,Cookeville,public,1370974
+TN,Tennessee,8,The University of Tennessee-Knoxville,Knoxville,public,1339145
+TN,Tennessee,9,Southern Adventist University,Collegedale,private-nonprofit,1338458
+TN,Tennessee,10,The University of Tennessee Southern,Pulaski,public,1240737
+TN,Tennessee,11,Union University,Jackson,private-nonprofit,1206309
+TN,Tennessee,12,The University of Tennessee-Chattanooga,Chattanooga,public,1127314
+TN,Tennessee,13,Christian Brothers University,Memphis,private-nonprofit,1093096
+TN,Tennessee,14,University of Memphis,Memphis,public,1091016
+TN,Tennessee,15,Middle Tennessee State University,Murfreesboro,public,948939
+TX,Texas,1,The University of Texas Medical Branch at Galveston,Galveston,public,3791938
+TX,Texas,2,Texas Tech University Health Sciences Center,Lubbock,public,3417296
+TX,Texas,3,Rice University,Houston,private-nonprofit,2889396
+TX,Texas,4,The University of Texas at Arlington,Arlington,public,2724270
+TX,Texas,5,The University of Texas Health Science Center at San Antonio,San Antonio,public,2696918
+TX,Texas,6,The University of Texas Permian Basin,Odessa,public,2628885
+TX,Texas,7,Southwestern Adventist University,Keene,private-nonprofit,2628726
+TX,Texas,8,Texas A & M University-College Station,College Station,public,2536850
+TX,Texas,9,The University of Texas at Austin,Austin,public,2507021
+TX,Texas,10,Texas Tech University,Lubbock,public,2242796
+TX,Texas,11,University of Houston,Houston,public,2135877
+TX,Texas,12,Lamar University,Beaumont,public,2092503
+TX,Texas,13,University of Houston-Downtown,Houston,public,2025193
+TX,Texas,14,University of Houston-Clear Lake,Houston,public,2010733
+TX,Texas,15,Midwestern State University,Wichita Falls,public,1996308
+UT,Utah,1,Neumont College of Computer Science,Salt Lake City,private-forprofit,4868871
+UT,Utah,2,Western Governors University,Salt Lake City,private-nonprofit,4143850
+UT,Utah,3,Weber State University,Ogden,public,2306489
+UT,Utah,4,Utah Valley University,Orem,public,2218912
+UT,Utah,5,Brigham Young University,Provo,private-nonprofit,2121000
+UT,Utah,6,University of Utah,Salt Lake City,public,1791367
+UT,Utah,7,Utah State University,Logan,public,1323552
+UT,Utah,8,Utah Tech University,Saint George,public,1174172
+UT,Utah,9,Southern Utah University,Cedar City,public,834455
+UT,Utah,10,Westminster University,Salt Lake City,private-nonprofit,603611
+VT,Vermont,1,Vermont State University,Randolph,public,2221518
+VT,Vermont,2,University of Vermont,Burlington,public,740654
+VT,Vermont,3,Middlebury College,Middlebury,private-nonprofit,737536
+VT,Vermont,4,Norwich University,Northfield,private-nonprofit,501866
+VA,Virginia,1,University of Virginia-Main Campus,Charlottesville,public,2631442
+VA,Virginia,2,Virginia Polytechnic Institute and State University,Blacksburg,public,2607331
+VA,Virginia,3,George Mason University,Fairfax,public,1933111
+VA,Virginia,4,James Madison University,Harrisonburg,public,1760629
+VA,Virginia,5,Virginia Military Institute,Lexington,public,1457061
+VA,Virginia,6,Washington and Lee University,Lexington,private-nonprofit,1390681
+VA,Virginia,7,ECPI University,Virginia Beach,private-forprofit,1330653
+VA,Virginia,8,Marymount University,Arlington,private-nonprofit,1309591
+VA,Virginia,9,Eastern Mennonite University,Harrisonburg,private-nonprofit,1291820
+VA,Virginia,10,Old Dominion University,Norfolk,public,1067848
+VA,Virginia,11,William & Mary,Williamsburg,public,1008708
+VA,Virginia,12,Liberty University,Lynchburg,private-nonprofit,806862
+VA,Virginia,13,Radford University,Radford,public,802792
+VA,Virginia,14,Longwood University,Farmville,public,677896
+VA,Virginia,15,Christopher Newport University,Newport News,public,645600
+WA,Washington,1,City University of Seattle,Seattle,private-nonprofit,2548379
+WA,Washington,2,DigiPen Institute of Technology,Redmond,private-forprofit,2470917
+WA,Washington,3,Walla Walla University,College Place,private-nonprofit,1901516
+WA,Washington,4,University of Washington-Seattle Campus,Seattle,public,1822874
+WA,Washington,5,Washington State University,Pullman,public,1681024
+WA,Washington,6,Central Washington University,Ellensburg,public,987220
+WA,Washington,7,Northwest University,Kirkland,private-nonprofit,946101
+WA,Washington,8,Eastern Washington University,Cheney,public,712622
+WA,Washington,9,Western Washington University,Bellingham,public,448058
+WA,Washington,10,Seattle University,Seattle,private-nonprofit,395400
+WA,Washington,11,Gonzaga University,Spokane,private-nonprofit,250140
+WA,Washington,12,Seattle Pacific University,Seattle,private-nonprofit,181270
+WA,Washington,13,Saint Martin's University,Lacey,private-nonprofit,69307
+WA,Washington,14,Heritage University,Toppenish,private-nonprofit,28600
+WV,West Virginia,1,American Public University System,Charles Town,private-forprofit,3207351
+WV,West Virginia,2,West Virginia University,Morgantown,public,1756482
+WV,West Virginia,3,University of Charleston,Charleston,private-nonprofit,1583604
+WV,West Virginia,4,Shepherd University,Shepherdstown,public,1201124
+WV,West Virginia,5,Fairmont State University,Fairmont,public,1049949
+WV,West Virginia,6,Wheeling University,Wheeling,private-nonprofit,686027
+WV,West Virginia,7,Marshall University,Huntington,public,626102
+WV,West Virginia,8,West Virginia University at Parkersburg,Parkersburg,public,598941
+WV,West Virginia,9,Bluefield State University,Bluefield,public,533416
+WV,West Virginia,10,West Virginia Wesleyan College,Buckhannon,private-nonprofit,467800
+WV,West Virginia,11,West Liberty University,West Liberty,public,447780
+WV,West Virginia,12,Glenville State University,Glenville,public,312261
+WV,West Virginia,13,West Virginia State University,Institute,public,4837
+WI,Wisconsin,1,Milwaukee School of Engineering,Milwaukee,private-nonprofit,3198477
+WI,Wisconsin,2,University of Wisconsin-Platteville,Platteville,public,2859520
+WI,Wisconsin,3,Herzing University-Madison,Madison,private-nonprofit,2433496
+WI,Wisconsin,4,University of Wisconsin-Stout,Menomonie,public,2363006
+WI,Wisconsin,5,University of Wisconsin-Madison,Madison,public,2299905
+WI,Wisconsin,6,Viterbo University,La Crosse,private-nonprofit,2027131
+WI,Wisconsin,7,University of Wisconsin-Eau Claire,Eau Claire,public,1913467
+WI,Wisconsin,8,University of Wisconsin-Whitewater,Whitewater,public,1820072
+WI,Wisconsin,9,University of Wisconsin-Oshkosh,Oshkosh,public,1743666
+WI,Wisconsin,10,University of Wisconsin-La Crosse,La Crosse,public,1687142
+WI,Wisconsin,11,University of Wisconsin-Milwaukee,Milwaukee,public,1607219
+WI,Wisconsin,12,University of Wisconsin-Parkside,Kenosha,public,1514152
+WI,Wisconsin,13,University of Wisconsin-River Falls,River Falls,public,1510343
+WI,Wisconsin,14,Marquette University,Milwaukee,private-nonprofit,1444095
+WI,Wisconsin,15,University of Wisconsin-Green Bay,Green Bay,public,1402163
+WY,Wyoming,1,University of Wyoming,Laramie,public,1618801

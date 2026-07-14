@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "College ROI Data: 30-year net present value of U.S. colleges and majors"
+type: dataset
+authors:
+  - name: "LE TEEN"
+    website: "https://le-teen.com"
+abstract: >-
+  Clean, citable tables on the lifetime financial return of U.S. colleges and
+  majors: 30-year net present value by school and state, cohort-weighted ROI by
+  major category, the out-of-state cost premium, and an AI-exposure score per
+  major. Derived from FREOPP (2021), NCES IPEDS (2023-24 Final), BEA Regional
+  Price Parities (2023), Microsoft Research "Working with AI" (2025), the
+  Anthropic Economic Index (2025), and Census ACS 2022 PUMS.
+keywords:
+  - college ROI
+  - higher education
+  - student debt
+  - net present value
+  - college majors
+  - tuition
+  - IPEDS
+  - FREOPP
+license: CC-BY-4.0
+url: "https://le-teen.com/methodology"
+repository-code: "https://github.com/thomasthinks/college-roi-data"
+version: "1.0.0"
+date-released: "2026-07-14"

@@ -1,0 +1,291 @@
+{
+ "name": "college-roi-data",
+ "title": "College ROI Data: 30-year net present value of U.S. colleges and majors",
+ "homepage": "https://le-teen.com/methodology",
+ "version": "1.0.0",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "title": "Creative Commons Attribution 4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "LE TEEN",
+   "path": "https://le-teen.com",
+   "role": "author"
+  }
+ ],
+ "sources": [
+  {
+   "title": "FREOPP higher-ed ROI (2021)",
+   "path": "https://freopp.org/projects/higher-education/"
+  },
+  {
+   "title": "NCES IPEDS 2023-24 Final",
+   "path": "https://nces.ed.gov/ipeds/"
+  },
+  {
+   "title": "BEA Regional Price Parities 2023",
+   "path": "https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area"
+  },
+  {
+   "title": "Microsoft Research, Working with AI (2025)",
+   "path": "https://arxiv.org/abs/2507.07935"
+  },
+  {
+   "title": "Anthropic Economic Index (2025-09-15)",
+   "path": "https://huggingface.co/datasets/Anthropic/EconomicIndex"
+  },
+  {
+   "title": "US Census ACS 2022 PUMS",
+   "path": "https://www.census.gov/programs-surveys/acs/microdata.html"
+  }
+ ],
+ "resources": [
+  {
+   "name": "roi-by-major-category",
+   "path": "roi-by-major-category.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "Cohort-weighted lifetime ROI per major category (FREOPP 2021, LE TEEN aggregation)",
+   "schema": {
+    "fields": [
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "major_category",
+      "type": "string"
+     },
+     {
+      "name": "mean_lifetime_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "median_lifetime_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "p25_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "p75_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "pct_never_breakeven",
+      "type": "number"
+     },
+     {
+      "name": "median_breakeven_age",
+      "type": "integer"
+     },
+     {
+      "name": "completion_adjusted_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "dropout_roi_usd",
+      "type": "integer"
+     },
+     {
+      "name": "graduates",
+      "type": "integer"
+     },
+     {
+      "name": "programs",
+      "type": "integer"
+     },
+     {
+      "name": "source",
+      "type": "string"
+     },
+     {
+      "name": "vintage",
+      "type": "integer"
+     }
+    ]
+   }
+  },
+  {
+   "name": "best-value-colleges-by-state",
+   "path": "best-value-colleges-by-state.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "Top institutions per U.S. state by 30-year NPV, resident student",
+   "schema": {
+    "fields": [
+     {
+      "name": "state",
+      "type": "string"
+     },
+     {
+      "name": "state_name",
+      "type": "string"
+     },
+     {
+      "name": "rank_in_state",
+      "type": "integer"
+     },
+     {
+      "name": "institution",
+      "type": "string"
+     },
+     {
+      "name": "city",
+      "type": "string"
+     },
+     {
+      "name": "control",
+      "type": "string"
+     },
+     {
+      "name": "npv_30yr_resident_usd",
+      "type": "integer"
+     }
+    ]
+   }
+  },
+  {
+   "name": "out-of-state-penalty",
+   "path": "out-of-state-penalty.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "30-year NPV penalty of non-resident vs resident attendance per public institution",
+   "schema": {
+    "fields": [
+     {
+      "name": "rank",
+      "type": "integer"
+     },
+     {
+      "name": "institution",
+      "type": "string"
+     },
+     {
+      "name": "state",
+      "type": "string"
+     },
+     {
+      "name": "oos_penalty_30yr_npv_usd",
+      "type": "integer"
+     },
+     {
+      "name": "npv_resident_usd",
+      "type": "integer"
+     },
+     {
+      "name": "npv_nonresident_usd",
+      "type": "integer"
+     },
+     {
+      "name": "tuition_in_state_usd",
+      "type": "integer"
+     },
+     {
+      "name": "tuition_out_of_state_usd",
+      "type": "integer"
+     }
+    ]
+   }
+  },
+  {
+   "name": "ai-exposure-by-major",
+   "path": "ai-exposure-by-major.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "LE TEEN-derived AI applicability score per major category (exposure, not displacement)",
+   "schema": {
+    "fields": [
+     {
+      "name": "major_category",
+      "type": "string"
+     },
+     {
+      "name": "ai_exposure_score",
+      "type": "number"
+     },
+     {
+      "name": "acs_weighted_score",
+      "type": "number"
+     },
+     {
+      "name": "crosswalk_score",
+      "type": "number"
+     },
+     {
+      "name": "acs_coverage",
+      "type": "number"
+     },
+     {
+      "name": "top_occupations",
+      "type": "string"
+     }
+    ]
+   }
+  },
+  {
+   "name": "institutions",
+   "path": "institutions.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "description": "IPEDS 2023-24 institution join table (identity, tuition, room & board, median earnings)",
+   "schema": {
+    "fields": [
+     {
+      "name": "unitid",
+      "type": "integer"
+     },
+     {
+      "name": "name",
+      "type": "string"
+     },
+     {
+      "name": "city",
+      "type": "string"
+     },
+     {
+      "name": "state",
+      "type": "string"
+     },
+     {
+      "name": "control",
+      "type": "string"
+     },
+     {
+      "name": "level",
+      "type": "string"
+     },
+     {
+      "name": "in_state_tuition",
+      "type": "integer"
+     },
+     {
+      "name": "out_of_state_tuition",
+      "type": "integer"
+     },
+     {
+      "name": "room_board",
+      "type": "integer"
+     },
+     {
+      "name": "median_earnings_10_year",
+      "type": "string"
+     },
+     {
+      "name": "median_earnings_5_year",
+      "type": "string"
+     },
+     {
+      "name": "program_count",
+      "type": "integer"
+     }
+    ]
+   }
+  }
+ ]
+}
