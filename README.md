@@ -66,6 +66,21 @@ a public download); costs are IPEDS 2023-24 Final; deflators BEA 2023. Earnings 
 are intrinsically lagged — cohorts must be 5–8 years post-graduation to observe. Where a
 figure matters, say the vintage.
 
+## Mirrors
+
+The canonical, versioned record is **Zenodo — DOI [10.5281/zenodo.21351603](https://doi.org/10.5281/zenodo.21351603)** (the concept DOI [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602) always resolves to the latest version). The same tables are mirrored for discovery and convenience:
+
+| Surface | Link |
+|---|---|
+| GitHub (this repo) | <https://github.com/thomasthinks/college-roi-data> |
+| Hugging Face | <https://huggingface.co/datasets/le-teen/college-roi-data> |
+| Kaggle | <https://www.kaggle.com/datasets/leteen/college-roi-data> |
+| figshare | <https://doi.org/10.6084/m9.figshare.32988698> |
+| OpenML | <https://www.openml.org/d/47261> · <https://www.openml.org/d/47262> |
+| OSF | <https://osf.io/uy4pz/> |
+
+Cite the Zenodo DOI (see [Cite](#cite)). A Harvard Dataverse record is pending curator review and will be added here when it publishes.
+
 ## Cite
 
 > LE TEEN (2026). *College ROI Data: 30-year net present value of U.S. colleges and majors.*
