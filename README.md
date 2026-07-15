@@ -81,6 +81,15 @@ The canonical, versioned record is **Zenodo — DOI [10.5281/zenodo.21351603](ht
 
 Cite the Zenodo DOI (see [Cite](#cite)). A Harvard Dataverse record is pending curator review and will be added here when it publishes.
 
+## Programmatic access
+
+Don't want CSVs? The same numbers are queryable live:
+
+- **JSON API** — free, keyless, CORS-open static JSON at [le-teen.com/api](https://le-teen.com/api): all majors/subfields, the 500 positive-NPV-envelope colleges, and the standing rankings, with an [OpenAPI 3.1 spec](https://le-teen.com/api/v1/openapi.json). Root: `https://le-teen.com/api/v1/index.json`.
+- **MCP server** — the data as native tools for AI agents (Model Context Protocol, stdio): `npx -y college-roi-mcp` ([npm](https://www.npmjs.com/package/college-roi-mcp) · [source](https://github.com/thomasthinks/college-roi-mcp), MIT). On the [official MCP registry](https://registry.modelcontextprotocol.io/v0/servers?search=college-roi) as `com.le-teen/college-roi-mcp` and on [Smithery](https://smithery.ai/servers/tj-r4v3/college-roi-mcp).
+
+Note the scope difference: this dataset covers all 3,392 institutions; the API/MCP college endpoints expose the 500 that clear LE TEEN's positive-NPV editorial envelope (absence there is a coverage statement, not a verdict).
+
 ## Cite
 
 > LE TEEN (2026). *College ROI Data: 30-year net present value of U.S. colleges and majors.*
