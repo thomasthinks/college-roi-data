@@ -1,6 +1,6 @@
 # College ROI Data — what U.S. colleges and majors actually pay back
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21351603-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21351603)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21351602-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21351602)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-b31b1b?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 [![Website](https://img.shields.io/badge/site-le--teen.com-111?style=flat-square)](https://le-teen.com)
 [![Methodology](https://img.shields.io/badge/methodology-public-111?style=flat-square)](https://le-teen.com/methodology)
@@ -68,7 +68,7 @@ figure matters, say the vintage.
 
 ## Mirrors
 
-The canonical, versioned record is **Zenodo — DOI [10.5281/zenodo.21351603](https://doi.org/10.5281/zenodo.21351603)** (the concept DOI [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602) always resolves to the latest version). The same tables are mirrored for discovery and convenience:
+The canonical, versioned record is **Zenodo — concept DOI [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602)**, which always resolves to the latest version. Cite that, never a pinned version DOI: a pinned DOI freezes to whatever was current when it was written, so a copy of this file inside an archived version would keep pointing at a superseded record forever. The same tables are mirrored for discovery and convenience:
 
 | Surface | Link |
 |---|---|
@@ -76,7 +76,7 @@ The canonical, versioned record is **Zenodo — DOI [10.5281/zenodo.21351603](ht
 | Hugging Face | <https://huggingface.co/datasets/le-teen/college-roi-data> |
 | Kaggle | <https://www.kaggle.com/datasets/leteen/college-roi-data> |
 | figshare | <https://doi.org/10.6084/m9.figshare.32988698> |
-| OpenML | <https://www.openml.org/d/47276> · <https://www.openml.org/d/47262> |
+| OpenML | current dataset ids at <https://le-teen.com/data> — OpenML datasets are immutable, so a correction means a new id and any number written here goes dead |
 | OSF | <https://osf.io/uy4pz/> |
 
 Cite the Zenodo DOI (see [Cite](#cite)). A Harvard Dataverse record is pending curator review and will be added here when it publishes.
@@ -95,7 +95,7 @@ Note the scope difference: this dataset covers all 3,392 institutions; the API/M
 > LE TEEN (2026). *College ROI Data: 30-year net present value of U.S. colleges and majors.*
 > Derived from FREOPP (2021), NCES IPEDS (2023-24), BEA RPP (2023). https://le-teen.com/methodology
 
-A `CITATION.cff` ships in this repository; DOI: [10.5281/zenodo.21351603](https://doi.org/10.5281/zenodo.21351603) (concept DOI for all versions: [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602)).
+A `CITATION.cff` ships in this repository; DOI: [10.5281/zenodo.21351602](https://doi.org/10.5281/zenodo.21351602) — the concept DOI, which resolves to the latest version. Version-specific DOIs exist and are listed on the Zenodo record, but cite the concept DOI unless you deliberately need to pin to one release.
 
 ## Refresh cadence
 
