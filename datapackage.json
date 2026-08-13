@@ -78,7 +78,13 @@
      },
      {
       "name": "pct_never_breakeven",
-      "type": "number"
+      "type": "number",
+      "description": "Share of graduates in programs FREOPP flags as never breaking even (999 sentinel), percent. Denominator is graduates in programs carrying a break-even age."
+     },
+     {
+      "name": "pct_negative_lifetime_roi",
+      "type": "number",
+      "description": "Share of all graduates in programs whose 30-year lifetime ROI is below zero, percent. Strictly wider than pct_never_breakeven — it also counts programs that do break even, but only in the graduate's late fifties."
      },
      {
       "name": "median_breakeven_age",

@@ -24,7 +24,7 @@ next 30 years gets minutes. These tables exist so it can get cited instead.
 
 | File | Rows | What it is |
 |---|---:|---|
-| `roi-by-major-category.csv` | 19 | Cohort-weighted lifetime ROI per major category: mean/median, p25/p75 spread, % of graduates who never break even, median breakeven age, completion-adjusted + dropout ROI |
+| `roi-by-major-category.csv` | 19 | Cohort-weighted lifetime ROI per major category: mean/median, p25/p75 spread, % of graduates who never break even, % whose 30-year ROI is below zero (a strictly wider group — it also counts degrees that pay off only in the graduate's late fifties), median breakeven age, completion-adjusted + dropout ROI |
 | `best-value-colleges-by-state.csv` | 607 | Top institutions per U.S. state by 30-year NPV for a resident student |
 | `out-of-state-penalty.csv` | 455 | The 30-year NPV cost of attending each public flagship/university as a non-resident vs resident, with both tuition rows |
 | `ai-exposure-by-major.csv` | 18 | LE TEEN-derived AI applicability score per major category (occupation-weighted; **exposure, not displacement**) |
