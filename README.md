@@ -76,7 +76,7 @@ The canonical, versioned record is **Zenodo — DOI [10.5281/zenodo.21351603](ht
 | Hugging Face | <https://huggingface.co/datasets/le-teen/college-roi-data> |
 | Kaggle | <https://www.kaggle.com/datasets/leteen/college-roi-data> |
 | figshare | <https://doi.org/10.6084/m9.figshare.32988698> |
-| OpenML | <https://www.openml.org/d/47261> · <https://www.openml.org/d/47262> |
+| OpenML | <https://www.openml.org/d/47276> · <https://www.openml.org/d/47262> |
 | OSF | <https://osf.io/uy4pz/> |
 
 Cite the Zenodo DOI (see [Cite](#cite)). A Harvard Dataverse record is pending curator review and will be added here when it publishes.
