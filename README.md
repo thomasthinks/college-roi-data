@@ -79,7 +79,7 @@ The canonical, versioned record is **Zenodo — concept DOI [10.5281/zenodo.2135
 | OpenML | current dataset ids at <https://le-teen.com/data> — OpenML datasets are immutable, so a correction means a new id and any number written here goes dead |
 | OSF | <https://osf.io/uy4pz/> |
 
-Cite the Zenodo DOI (see [Cite](#cite)). A Harvard Dataverse record is pending curator review and will be added here when it publishes.
+Cite the Zenodo DOI (see [Cite](#cite)). That mirror list is complete — there is no eighth surface pending.
 
 ## Programmatic access
 
