@@ -2,7 +2,7 @@
  "name": "college-roi-data",
  "title": "College ROI Data: 30-year net present value of U.S. colleges and majors",
  "homepage": "https://le-teen.com/methodology",
- "version": "1.0.0",
+ "version": "1.1.0",
  "licenses": [
   {
    "name": "CC-BY-4.0",
@@ -161,12 +161,13 @@
    "path": "out-of-state-penalty.csv",
    "format": "csv",
    "mediatype": "text/csv",
-   "description": "30-year NPV penalty of non-resident vs resident attendance per public institution",
+   "description": "30-year NPV penalty of non-resident vs resident attendance per public institution. All 455 public universities in the universe, of which 445 admit freshmen. The ten that do not (graduate/professional and health-science campuses) are kept, flagged by admits_freshmen=false and excluded_from_named_rankings_reason=no-freshman-admission, because LE TEEN's published named rankings exclude them: rank orders all 455 rows; rank_freshman_admitting is the 1..445 rank over the freshman-admitting subset that le-teen.com publishes, and is empty for the ten excluded rows.",
    "schema": {
     "fields": [
      {
       "name": "rank",
-      "type": "integer"
+      "type": "integer",
+      "description": "Rank by oos_penalty_30yr_npv_usd, descending, over all 455 rows (including the ten no-freshman-admission campuses)."
      },
      {
       "name": "institution",
@@ -195,6 +196,26 @@
      {
       "name": "tuition_out_of_state_usd",
       "type": "integer"
+     },
+     {
+      "name": "unitid",
+      "type": "integer",
+      "description": "IPEDS UnitID; join key to institutions.csv."
+     },
+     {
+      "name": "admits_freshmen",
+      "type": "boolean",
+      "description": "false for the ten graduate/professional campuses that do not admit first-time freshmen."
+     },
+     {
+      "name": "excluded_from_named_rankings_reason",
+      "type": "string",
+      "description": "Empty, or no-freshman-admission when the row is excluded from LE TEEN's published named rankings. An editorial exclusion, not a data correction: the row's values are unchanged."
+     },
+     {
+      "name": "rank_freshman_admitting",
+      "type": "integer",
+      "description": "Rank 1..445 over the freshman-admitting rows only (the ranking le-teen.com publishes); empty where admits_freshmen is false."
      }
     ]
    }

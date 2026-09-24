@@ -26,9 +26,30 @@ next 30 years gets minutes. These tables exist so it can get cited instead.
 |---|---:|---|
 | `roi-by-major-category.csv` | 19 | Cohort-weighted lifetime ROI per major category: mean/median, p25/p75 spread, % of graduates who never break even, % whose 30-year ROI is below zero (a strictly wider group — it also counts degrees that pay off only in the graduate's late fifties), median breakeven age, completion-adjusted + dropout ROI |
 | `best-value-colleges-by-state.csv` | 607 | Top institutions per U.S. state by 30-year NPV for a resident student |
-| `out-of-state-penalty.csv` | 455 | The 30-year NPV cost of attending each public flagship/university as a non-resident vs resident, with both tuition rows |
+| `out-of-state-penalty.csv` | 455 | The 30-year NPV cost of attending each public flagship/university as a non-resident vs resident, with both tuition rows. 445 of the 455 admit freshmen; see [the out-of-state file](#the-out-of-state-file-455-rows-445-freshman-admitting) for the four columns that say which |
 | `ai-exposure-by-major.csv` | 18 | LE TEEN-derived AI applicability score per major category (occupation-weighted; **exposure, not displacement**) |
 | `institutions.csv` | 3,392 | IPEDS 2023-24 join table: UnitID, name, location, control, level, tuition (in/out-of-state), room & board, median earnings where published |
+
+### The out-of-state file: 455 rows, 445 freshman-admitting
+
+`out-of-state-penalty.csv` covers 455 public universities. Ten of them are
+graduate/professional or health-science campuses that do not admit first-time freshmen
+(University of Maryland, Baltimore; University of Nebraska Medical Center; and eight others).
+LE TEEN leaves those ten out of the named rankings it publishes on le-teen.com, because a
+ranking a 17-year-old reads should not name a campus they cannot enrol in. That is an
+editorial call, not a data correction: the ten rows stay here with every value unchanged,
+and four columns, appended after the original eight so a positional parser still reads,
+make both views derivable from this one file:
+
+| Column | What it holds |
+|---|---|
+| `unitid` | IPEDS UnitID, the join key to `institutions.csv` |
+| `admits_freshmen` | `true`, or `false` for the ten campuses that do not admit freshmen |
+| `excluded_from_named_rankings_reason` | empty, or `no-freshman-admission` |
+| `rank_freshman_admitting` | rank 1..445 over the freshman-admitting rows (the ranking le-teen.com publishes); empty for the ten |
+
+`rank` is unchanged and still runs 1..455 over every row of this file, the ten included. Filter on `admits_freshmen == true` and
+sort by `rank_freshman_admitting` to reproduce the published list.
 
 ## Quickstart
 
